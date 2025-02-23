@@ -1,0 +1,14 @@
+xstreamlit
+pandas
+numpy
+yfinance
+plotly
+alpha_vantage
+stocknews
+finnhub-python
+transformers
+langchain
+sentence-transformers
+unstructured
+faiss-cpu
+torch
